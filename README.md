@@ -78,8 +78,8 @@ Redoak is built using the following technologies:
 
 To run the Redoak project locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`.
-2. Navigate to the project directory: `cd [project directory]`.
+1. Clone the repository: `git clone [https://github.com/tasmin75/idhs-web]`.
+2. Navigate to the project directory.
 3. Install dependencies: `npm install` or `yarn install`.
 4. Start the development server: `npm run dev` or `yarn start`.
 5. Access the application in your browser at `http://localhost:5173`.
